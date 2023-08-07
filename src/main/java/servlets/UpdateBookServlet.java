@@ -55,7 +55,7 @@ public class UpdateBookServlet extends HttpServlet {
                     // rd.include(req, res);
                 }
 
-                return;
+             return;
             }
 
             String bookId = req.getParameter("bookId");
